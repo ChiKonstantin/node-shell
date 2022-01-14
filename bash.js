@@ -13,3 +13,6 @@ pwd3();
 
 const ls = require("./ls");
 ls();
+
+const cat = require("./cat");
+cat();
