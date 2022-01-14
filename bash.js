@@ -8,6 +8,8 @@ process.stdout.write("prompt > ");
 //   process.stdout.write(`\nprompt > `);
 // });
 
-
-const pwd3 = require('./pwd2');
+const pwd3 = require("./pwd2");
 pwd3();
+
+const ls = require("./ls");
+ls();
